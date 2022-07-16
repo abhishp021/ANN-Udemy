@@ -5,7 +5,7 @@ Combined Cycle Power Plant Dataset taken from **UCI Machine Learning Repository*
 ![Initial Dataset](https://github.com/abhishp021/ANN-Udemy/blob/cbba1b8c461e4da63ae923ea71a1162dd384874f/ScreenShot_20220716082557.jpeg)<br/>
 
 Features consist of hourly average ambient variables
-- Temperature (T) in the range 1.81°C and 37.11°C,
+- Temperature (AT) in the range 1.81°C and 37.11°C,
 - Ambient Pressure (AP) in the range 992.89-1033.30 milibar,
 - Relative Humidity (RH) in the range 25.56% to 100.16%
 - Exhaust Vacuum (V) in teh range 25.36-81.56 cm Hg
